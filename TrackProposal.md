@@ -7,7 +7,7 @@ Learning Objectives:
 Courses:
 
 1. Power BI Desktop - Loading Data into Power BI Course (https://cloudacademy.com/course/loading-data-into-power-bi-1892/power-bi-desktop/)
-  Power BI is one of the most powerful business intelligence tools being used in the industry today. This course provides an overview of how to set up Power BI and get started with it. You'll get hand-on experience of loading different types of data sets and how to optimize the usage. You'll also be trained to detect anomalies and inconsistenices in the data and how to deal with them. Lastly, and quite importantly, you'll get experience of dealing with errors and bugs and how to debug and fix them, which itself is a very important skill to learn.
+Power BI is one of the most powerful business intelligence tools being used in the industry today. This course provides an overview of how to set up Power BI and get started with it. You'll get hand-on experience of loading different types of data sets and how to optimize the usage. You'll also be trained to detect anomalies and inconsistenices in the data and how to deal with them. Lastly, and quite importantly, you'll get experience of dealing with errors and bugs and how to debug and fix them, which itself is a very important skill to learn.
 
 2. Introduction to Power BI (https://app.datacamp.com/learn/courses/introduction-to-power-bi)
   In this course, you'll learn how to navigate the tool and become more comfortable with the different features it has to offer. Not only would you learn how to load and transform data, but you will also learn how to build interactive visualizations and different data models and identify the relationships between different tables and unlock the underlying trends between them.
